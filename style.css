@@ -23,6 +23,8 @@ body {
     height: 100%;
 
     object-fit: cover;
+
+    transition: opacity 800ms;
 }
 #slider img.selected {
     opacity: 1;
